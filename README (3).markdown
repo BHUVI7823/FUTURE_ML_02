@@ -17,9 +17,8 @@ This project involves developing a Churn Prediction System to identify customers
 
 ## Data Source
 The data is sourced from a customer dataset (e.g., Telco Customer Churn Dataset from Kaggle), processed to train the predictive model.
+<img width="1166" height="658" alt="Screenshot 2025-07-29 191347" src="https://github.com/user-attachments/assets/00964927-13af-42eb-b2aa-a9418c34b480" />
 
-## Screenshot
-![Churn Prediction System Dashboard](attachment://churn_prediction_image.png)
 
 ## Internship Project Details
 ### About the Task
@@ -46,15 +45,10 @@ This hands-on internship project focused on building a Churn Prediction System t
 - Power BI or Matplotlib – For dashboard or report visuals
 - Optional: Streamlit – Turn your model into a live web app
 
-### 📁 Sample Datasets
+### 📁Dataset Used
 - 📱 Telco Customer Churn Dataset (Kaggle)
-- 🏦 Bank Customer Churn Dataset (Kaggle)
-- 🎧 Spotify User Churn Simulation – Simulated data for music platforms
 
 ## Requirements
 - Python environment with required libraries (Pandas, Scikit-learn, XGBoost, Matplotlib).
 - Power BI or similar tool for dashboard creation.
 - Access to a customer dataset.
-
-## Contact
-For any issues or suggestions, please contact the development team.
